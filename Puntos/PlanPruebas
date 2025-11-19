@@ -1,0 +1,14 @@
+# 🧪 Matriz de Pruebas y Trazabilidad de Requerimientos
+
+Esta tabla documenta la verificación de los requerimientos funcionales del sistema, detallando el tipo de prueba ejecutada y el resultado de la misma.
+
+| Tipo de Prueba | Requerimiento Asociado | Datos de Entrada (Input) | Resultado Esperado | Resultado Obtenido (Actual) |
+| :------------: | :--------------------- | :----------------------- | :----------------- | :-------------------------- |
+| **UNITARIO** | Dar seguridad al usuario | Acceso por contraseña | Dar al usuario un buen manejo de la plataforma. | ✅ La página se maneja correctamente con los datos añadidos por el usuario. |
+| **UNITARIO** | Identificar errores dentro del sistema automáticamente | Panel de búsqueda de la página web | Integrarlo evitando dificultades al manejo de la plataforma. | ✅ El sistema se manejó sin la necesidad de un usuario interno dentro de la aplicación. |
+| **UNITARIO** | Dar rendimiento a todos los dispositivos de diferentes sistemas | Acceso mediante cualquier dispositivo (Windows o Android) | Permitir el acceso con cualquier tipo de dispositivo (computadora o celular). | ⚠️ Se requiere **Actualización o Descarga** fundamental para el manejo de la APP. |
+| **VALIDACIÓN** | Dar seguimiento a los usuarios | Módulos de clasificación | Integrar el uso de los libros de manera correcta. | ✅ Se verifican usuarios con pocos créditos, anulando la cuenta si debe más de 5 libros. |
+| **VALIDACIÓN** | Verificación de usuarios | Correos repetidos en otros dispositivos | Implementar la seguridad del usuario. | ✅ Se identificó y gestionó el usuario duplicado dentro de la APP. |
+
+---
+*Nota: Los resultados marcados con (✅) indican una prueba satisfactoria. (⚠️) indica un resultado que implica una dependencia o acción adicional.*
