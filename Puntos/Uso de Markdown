@@ -1,1 +1,38 @@
+# 📌 ¿Qué es Markdown y por qué se utiliza en proyectos de software?
+Markdown es un **lenguaje de marcado ligero** que permite dar formato a texto de manera sencilla mediante símbolos como `#`, `*`, `[]()`, etc. Es ampliamente utilizado en proyectos de software porque es fácil de leer, facilita la documentación, funciona perfectamente con GitHub y puede convertirse rápidamente en HTML. Es ideal para archivos README, wikis y documentación técnica.
+
+# 📘 Ejemplo práctico de Markdown
+
+## ✔ Encabezados
+# Título
+## Subtítulo
+### Sección
+
+## ✔ Listas
+- Elemento 1  
+- Elemento 2  
+
+1. Paso uno  
+2. Paso dos  
+
+## ✔ Tabla
+| Lenguaje   | Uso principal      |
+|------------|--------------------|
+| JavaScript | Desarrollo Web     |
+| Python     | IA / Backend       |
+| Java       | Aplicaciones       |
+
+## ✔ Enlaces
+[Visitar GitHub](https://github.com)
+
+## ✔ Imagen (una sola)
+![Ejemplo Markdown](https://i.imgur.com/3ZQ3ZQm.png)
+
+# 🚀 Ventajas de utilizar Markdown en combinación con GitHub
+- GitHub interpreta y muestra Markdown automáticamente.  
+- Permite crear documentación profesional y organizada.  
+- Hace que los proyectos sean más fáciles de entender.  
+- Perfecto para guías, manuales, wikis e instrucciones.  
+- Útil en issues, pull requests y trabajo colaborativo.  
+- Mantiene el repositorio limpio y bien estructurado.
 
