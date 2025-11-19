@@ -1,0 +1,18 @@
+Funcionales:
+•	Registrar los usuarios determinados dentro de la plataforma
+•	Identificar al usuario por nivel
+•	Dar disponibilidad al usuario mediante la cuenta de invitado
+•	Verificar los libros disponibles dentro de la APP
+•	Permitir la búsqueda al usuario 
+•	Dar notificaciones al usuario
+
+
+
+No funcionales:
+•	Implementar la seguridad dentro de la plataforma 
+•	Verificar el buen uso de la APP
+•	Soportar la carga de datos dentro de la aplicación
+•	La búsqueda del libro debe durar poco menos de 5 segundos
+•	Debe darse para dispositivos multiconectados a la red sea de diferente sistema operativo
+
+
